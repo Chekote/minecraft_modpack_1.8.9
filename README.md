@@ -20,6 +20,13 @@ Blood Magic is an arcane art that is practiced by mages who attempt to gather a 
 
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=J7SNY7L82PQ82), [Download](http://minecraft.curseforge.com/projects/blood-magic/files), IRC: Not Available, [License](http://creativecommons.org/licenses/by/4.0/), [Minecraft Forum](http://www.minecraftforum.net/topic/1899223), Reddit: Not Available, [Source](https://github.com/WayofTime/BloodMagic), [Spotlight](https://www.youtube.com/watch?v=TKK2Eu-jsJM), [Twitter](https://twitter.com/WayofTime)
 
+##BuildCraft 7.2.5 by Covert Jaguar
+
+Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!
+
+[Donate](http://www.patreon.com/SpaceToad), [Download](http://www.mod-buildcraft.com/download), IRC: Not Available, [License](http://www.mod-buildcraft.com/MMPL-1.0.txt), [Minecraft Forum](http://www.minecraftforum.net/topic/682920), Reddit: Not Available, [Source](https://github.com/BuildCraft/BuildCraft), [Spotlight](), [Twitter](https://twitter.com/SpaceToadCraft)
+
+
 ##Thaumcraft 5.2.4 by Azanor
 
 Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This is what this mod is all about - drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.
