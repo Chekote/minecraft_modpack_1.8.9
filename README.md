@@ -56,6 +56,13 @@ JEI is an item and recipe viewing mod for Minecraft 1.8.9, built from the ground
 [Donate](https://www.patreon.com/mezz), [Download](http://minecraft.curseforge.com/projects/just-enough-items-jei/files), IRC: Not Available, [License](http://minecraft.curseforge.com/projects/just-enough-items-jei/license), Minecraft Forum: Not Available, Reddit: Not Available, [Source](https://github.com/mezz/JustEnoughItems), [Spotlight](https://www.youtube.com/watch?v=j39wdC2d4XA), [Twitter](https://twitter.com/mezz_mc)
 
 
+##Dynamic Lights 1.3.9 by AtomicStryker
+
+Improves Minecrafts lighting system by allowing moving objects to cast light. For example, holding a torch in your hand, creatures and enemies that are on fire, magical armor, etc. Note that this is a visual effect only, and does not prevent monsters from spawning.
+"README.md" 29L, 3537C
+
+[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_flow&SESSION=CvomlYNJXOVeaxJWWVwNn1bJSK3gNLtEfOzMhmmzHVP4eWTLtDzP2_piZ7q), [Download](http://www.atomicstryker.net/dynamiclights.php), [License](http://www.atomicstryker.net/about.php), IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/184426-172-dynamic-lights-handheld-torches-moving-lightsources), Reddit: Not Available, [Source](https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FDynamicLights), [Spotlight](https://www.youtube.com/watch?v=XE_n3eZKl_c#t=65), [Twitter](https://twitter.com/AtomicStryker)
+
 ##Thaumcraft 5.2.4 by Azanor
 
 Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This is what this mod is all about - drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.
