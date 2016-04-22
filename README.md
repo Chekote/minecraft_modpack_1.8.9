@@ -26,6 +26,12 @@ Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!
 
 [Donate](http://www.patreon.com/SpaceToad), [Download](http://www.mod-buildcraft.com/download), IRC: Not Available, [License](http://www.mod-buildcraft.com/MMPL-1.0.txt), [Minecraft Forum](http://www.minecraftforum.net/topic/682920), Reddit: Not Available, [Source](https://github.com/BuildCraft/BuildCraft), [Spotlight](), [Twitter](https://twitter.com/SpaceToadCraft)
 
+##Gravestone Mod 1.0.0 by NightKosh
+
+This mod adds a gravestone to the game, which "spawns" at player/villager/dog/cat death. Also this mod generates cemeteries in some villages, and the "Wither's catacombs". This is a new huge structure, like stronghold, where you can find a lot of loot, dangerous adventures and a "Wither Boss" at the end.
+
+[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9EC38X4BQSQCA), [Download](http://gravestone.nightkosh.com/), IRC: Not Available, [License](http://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License), [Minecraft Forum](http://www.minecraftforum.net/topic/1711328), Reddit: Not Available, [Source](https://github.com/NightKosh/GraveStone-mod), [Spotlight](https://www.youtube.com/watch?v=jPT83W-HFwA), [Twitter](https://twitter.com/NightKosh)
+
 
 ##Thaumcraft 5.2.4 by Azanor
 
