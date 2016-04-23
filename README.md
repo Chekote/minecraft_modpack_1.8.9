@@ -1,4 +1,4 @@
-Chekote's Modpack for Minecraft 1.8
+Chekote's Modpack for Minecraft 1.8.9
 
 ##Archimedes Ships Plus INDEV G by DarkEvilMac
 
